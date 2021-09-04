@@ -1,0 +1,14 @@
+body {
+  color: black;
+  text-align: center;
+  font-family: Glyphs;
+  background-color: blue;
+  background-image: linear-gradient(red, yellow);
+    
+}
+
+img {
+  width: 200px;
+  margin: 25px;
+  height: 200px;
+}
